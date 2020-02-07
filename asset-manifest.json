@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/todo-app/static/css/main.777d6138.chunk.css",
+    "main.js": "/todo-app/static/js/main.42423615.chunk.js",
+    "main.js.map": "/todo-app/static/js/main.42423615.chunk.js.map",
+    "runtime-main.js": "/todo-app/static/js/runtime-main.e77e13dd.js",
+    "runtime-main.js.map": "/todo-app/static/js/runtime-main.e77e13dd.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/todo-app/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.ca7cf712.chunk.js": "/todo-app/static/js/2.ca7cf712.chunk.js",
+    "static/js/2.ca7cf712.chunk.js.map": "/todo-app/static/js/2.ca7cf712.chunk.js.map",
+    "index.html": "/todo-app/index.html",
+    "precache-manifest.ab47a2207e3ef6df99bf38c82122dbb4.js": "/todo-app/precache-manifest.ab47a2207e3ef6df99bf38c82122dbb4.js",
+    "service-worker.js": "/todo-app/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/todo-app/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.777d6138.chunk.css.map": "/todo-app/static/css/main.777d6138.chunk.css.map",
+    "static/js/2.ca7cf712.chunk.js.LICENSE.txt": "/todo-app/static/js/2.ca7cf712.chunk.js.LICENSE.txt",
+    "static/media/2.jpg": "/todo-app/static/media/2.2779a279.jpg",
+    "static/media/AntDesign.ttf": "/todo-app/static/media/AntDesign.3a2ba315.ttf",
+    "static/media/Entypo.ttf": "/todo-app/static/media/Entypo.744ce600.ttf",
+    "static/media/EvilIcons.ttf": "/todo-app/static/media/EvilIcons.140c53a7.ttf",
+    "static/media/Feather.ttf": "/todo-app/static/media/Feather.6beba7e6.ttf",
+    "static/media/FontAwesome.ttf": "/todo-app/static/media/FontAwesome.b06871f2.ttf",
+    "static/media/Foundation.ttf": "/todo-app/static/media/Foundation.e20945d7.ttf",
+    "static/media/Ionicons.ttf": "/todo-app/static/media/Ionicons.b2e0fc82.ttf",
+    "static/media/MaterialCommunityIcons.ttf": "/todo-app/static/media/MaterialCommunityIcons.d15c1216.ttf",
+    "static/media/MaterialIcons.ttf": "/todo-app/static/media/MaterialIcons.a37b0c01.ttf",
+    "static/media/Octicons.ttf": "/todo-app/static/media/Octicons.73b8cff0.ttf",
+    "static/media/SimpleLineIcons.ttf": "/todo-app/static/media/SimpleLineIcons.d2285965.ttf",
+    "static/media/Zocial.ttf": "/todo-app/static/media/Zocial.5cdf883b.ttf",
+    "static/media/styles.scss": "/todo-app/static/media/bg_header.8ac683ee.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e77e13dd.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.ca7cf712.chunk.js",
+    "static/css/main.777d6138.chunk.css",
+    "static/js/main.42423615.chunk.js"
+  ]
+}
